@@ -4,7 +4,7 @@
 
 ### On the Chrome Web Store
 
-Visit the [New Tab on the Chrome Web Store](about://blank) and choose "Add to Chrome".
+Visit the [Old New Tab on the Chrome Web Store](https://chrome.google.com/webstore/detail/old-new-tab/bpagopjlggfpellmhecaadjakbcgpmcf) and choose "Add to Chrome".
 
 
 ### Local Installation
